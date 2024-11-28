@@ -4,7 +4,7 @@ This repository contains a simple fluid loader animation created using HTML and 
 
 ## Preview
 
-!Fluid Loader
+!Fluid Loader - https://rieshukhandelwal.github.io/Fluid-loader/
 
 ## Getting Started
 
